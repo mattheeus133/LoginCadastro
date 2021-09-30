@@ -1,0 +1,7 @@
+﻿Primeiro instanciar a clase login
+Nessa classe sera utilizado o metodo ferificar login pasando as duas informaçoes que vieram
+do formulario que são "login" e "senha"
+sera verificado se foi encontrado e voltara na variavel "tem" Que retornara verdadeiro ou falso
+
+o comando if sera para verificar se a variavel mensagem foi preenchida com um valor de erro
+caso contrario se continuar com valor null quer dizer que esta tudo ok.

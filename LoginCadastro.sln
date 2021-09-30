@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginCadastro", "LoginCadastro.csproj", "{17246F21-5E08-4569-8A04-E54648275F74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentação", "Apresentação", "{8AD8FA8F-D4E8-492F-8B63-D28C74AA624D}"
+	ProjectSection(SolutionItems) = preProject
+		BemVindo.cs = BemVindo.cs
+		BemVindo.Designer.cs = BemVindo.Designer.cs
+		Cadastro.cs = Cadastro.cs
+		Cadastro.Designer.cs = Cadastro.Designer.cs
+		Form1.cs = Form1.cs
+		Form1.Designer.cs = Form1.Designer.cs
+		Form1.resx = Form1.resx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelo", "Modelo", "{696BA08D-882E-4429-9855-73DCA3B0E253}"
+	ProjectSection(SolutionItems) = preProject
+		Controle.cs = Controle.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{3F9517C7-C029-4337-84B4-E013C30ACD7E}"
+	ProjectSection(SolutionItems) = preProject
+		conexao.cs = conexao.cs
+		LoginDal.cs = LoginDal.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17246F21-5E08-4569-8A04-E54648275F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17246F21-5E08-4569-8A04-E54648275F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17246F21-5E08-4569-8A04-E54648275F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17246F21-5E08-4569-8A04-E54648275F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E07E8D-6B26-482C-AA0F-465A8AF2F944}
+	EndGlobalSection
+EndGlobal
